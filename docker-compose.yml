@@ -1,0 +1,13 @@
+version: '3'
+services:
+  python-dev:
+    image: python-dev:latest
+    networks:
+      - default_net
+    restart: always
+    volumes:
+      - ./data:/data
+      - .:/home
+networks:
+  default_net:
+    driver: bridge

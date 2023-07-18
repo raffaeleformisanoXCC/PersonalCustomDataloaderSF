@@ -1,0 +1,11 @@
+LOGS_IMPORT=logs/logs_import.log
+SANDBOX_HOST=cs160.salesforce.com
+SANDBOX_USERNAME=daniele.dimartino@xcconsulting.it.mcsandbox
+SANDBOX_PASSWORD=Ar112358na!
+SANDBOX_SECURITY_TOKEN=GMDg2dq79xkvDoELbZrIVd2eI
+PROD_USERNAME=daniele.dimartino@xcconsulting.it
+PROD_PASSWORD=Ar112358na!
+PROD_SECURITY_TOKEN=Ymcuji8Iet9cC0NWJV9coGrsg
+SDO_USERNAME=valerio.vinciguerra@xcconsulting.it.mastercard.demo
+SDO_PASSWORD=Fr112358co!
+SDO_SECURITY_TOKEN=bza9FbX15fv9bon88aZaiTRAs
